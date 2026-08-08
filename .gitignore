@@ -1,1 +1,4 @@
-Nothing needs to be ignored in this case, as only a Python source file (`WerTel/main.py`) was added without any build artifacts, dependencies, or temporary files.
+```
+# Patch files
+*.patch
+```
